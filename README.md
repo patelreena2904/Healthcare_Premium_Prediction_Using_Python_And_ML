@@ -71,3 +71,6 @@ A Streamlit application is developed to provide an interactive interface for:
 - `requirements.txt`: Lists the Python packages required for the project.
 - `README.md`: This file.
 
+### 	Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/patelreena2904/Healthcare_Premium_Prediction_Using_Python_And_ML/blob/main/Healthcare_Premium_Prediction_Using_Python_And_Ml.jpg.png)
